@@ -24,3 +24,4 @@ Receives data and uses libraries like ECharts or plain JavaScript to render dyna
 
 Handles user interactions such as selecting a year, switching views, or loading maps
 
+check the requiremnets !!!!!!!!!
